@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Робота 13</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <style>
+        body { font-family: 'Courier New', monospace; background-color: #eaf2f8; color: #333; padding: 40px; }
+        h1 { color: #2980b9; }
+    </style>
+</head>
+<body>
+    <h1>Це сторінка №13</h1>
+    <p>Ця сторінка створена для демонстрації роботи з блоками та шрифтами в HTML і CSS.</p>
+    <p><a href="index.html">⬅ Назад на головну</a></p>
+</body>
+</html>

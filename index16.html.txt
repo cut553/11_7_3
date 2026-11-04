@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Робота 16</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <style>
+        body { font-family: Tahoma, sans-serif; background-color: #f4ecf7; color: #222; padding: 40px; }
+        h1 { color: #8e44ad; }
+    </style>
+</head>
+<body>
+    <h1>Це сторінка №16</h1>
+    <p>Сторінка містить приклади каскадних таблиць стилів (CSS) для оформлення контенту.</p>
+    <p><a href="index.html">⬅ Назад на головну</a></p>
+</body>
+</html>

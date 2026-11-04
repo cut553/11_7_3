@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Мої роботи</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <h1>Мої практичні роботи</h1>
+    <ul>
+        <li><a href="index12.html">Робота 12</a></li>
+        <li><a href="index13.html">Робота 13</a></li>
+        <li><a href="index14.html">Робота 14</a></li>
+        <li><a href="index15.html">Робота 15</a></li>
+        <li><a href="index16.html">Робота 16</a></li>
+        <li><a href="index17.html">Робота 17</a></li>
+    </ul>
+</body>
+</html>

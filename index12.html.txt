@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Робота 12</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <style>
+        body { font-family: Arial, sans-serif; background-color: #f9f9f9; color: #222; padding: 40px; }
+        h1 { color: #e74c3c; }
+    </style>
+</head>
+<body>
+    <h1>Це сторінка №12</h1>
+    <p>Це моя практична робота з інформатики. Тут налаштовано стилі та оформлення за завданням.</p>
+    <p><a href="index.html">⬅ Назад на головну</a></p>
+</body>
+</html>

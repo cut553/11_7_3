@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Робота 14</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <style>
+        body { font-family: Georgia, serif; background-color: #fef9e7; color: #444; padding: 40px; }
+        h1 { color: #d68910; }
+    </style>
+</head>
+<body>
+    <h1>Це сторінка №14</h1>
+    <p>Тут вивчаються властивості кольорів, фону та рамки елементів вебсторінки.</p>
+    <p><a href="index.html">⬅ Назад на головну</a></p>
+</body>
+</html>
